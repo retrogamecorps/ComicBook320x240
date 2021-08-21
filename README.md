@@ -1,6 +1,7 @@
 ## ComicBook - 320x240 SimpleMenu Theme
 
 Based on https://github.com/TMNTturtleguy/es-theme-ComicBook_4-3
+<br>and https://github.com/CkauNui/ckau-book
 <br>Some assets borrowed from fgl82's Big Cody theme https://github.com/fgl82/BigCody
 
 ---
